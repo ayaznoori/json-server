@@ -1,9 +1,10 @@
 {
-  "posts": [
+  "todo": [
     {
       "id": 1,
       "title": "json-server",
-      "author": "typicode"
+      "discription": "typicode",
+      "complete":"false"
     }
   ],
   "comments": [
