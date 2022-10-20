@@ -1,20 +1,11 @@
 {
-  "todo": [
+  "dog": [
     {
       "id": 1,
-      "title": "json-server",
-      "discription": "typicode",
-      "complete":"false"
+      "name": "zimmy",
+      "age": 6,
+      "place":"patna",
+      "gender":"male"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
