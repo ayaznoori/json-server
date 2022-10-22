@@ -9,19 +9,70 @@
     }
   ],
   "furniture": [
+  {
+    "id": 1,
+    "type": "Study table",
+    "year": 2019,
+    "Description": "Wooden table with dual laptop setup",
+    "Price": 50000
+  },
+  {
+    "id": 2,
+    "type": "chair",
+    "year": 2017,
+    "Description": "Gaming Chair",
+    "Price": 9000
+  },
+  {
+    "type": "bed",
+    "year": 2017,
+    "Description": "2 people can sleep comfortably",
+    "Price": 25000,
+    "id": 3
+  },
+  {
+    "type": "bed",
+    "year": 2019,
+    "Description": "New Bed 5 people can adjust ",
+    "Price": 58000,
+    "id": 4
+  },
+  {
+    "type": "sofa",
+    "year": 2018,
+    "Description": "6 people can sit. fully leather ",
+    "Price": 25000,
+    "id": 5
+  },
+  {
+    "type": "sofa",
+    "year": 2013,
+    "Description": "antique sofa fully comfortable",
+    "Price": 10000,
+    "id": 6
+  },
+  {
+    "type": "table",
+    "year": 2007,
+    "Description": "6 person table",
+    "Price": 15000,
+    "id": 7
+  },
+  {
+    "type": "table",
+    "year": 1953,
+    "Description": "antique sofa for 4 people",
+    "Price": 150000,
+    "id": 8
+  }
+ ],
+"wishlisted": [
     {
       "id": 1,
-			"type":"Study table",
+      "type":"Study table",
       "year": 2019,
       "Description": "Wooden table with dual laptop setup",
       "Price": 50000
-    },
-    {
-      "id": 2,
-			"type":"chair",
-      "year": 2017,
-      "Description": "Gaming Chair",
-      "Price": 8000
     }
   ]
 }
